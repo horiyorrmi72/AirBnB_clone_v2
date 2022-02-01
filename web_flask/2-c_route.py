@@ -3,7 +3,7 @@
 starts a Flask we application
 """
 
-from Flask import flask
+from flask import Flask
 
 app = Flask(__name__)
 
